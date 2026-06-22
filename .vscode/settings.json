@@ -1,0 +1,7 @@
+{
+  "dart.deviceId": "chrome",
+  "dart.flutterRunAdditionalArgs": [
+    "--web-port",
+    "4200"
+  ]
+}
